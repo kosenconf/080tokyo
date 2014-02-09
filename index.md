@@ -38,7 +38,7 @@ tagline: kosenconf-080tokyo
 
 申し込みは下記よりお願いします。
 
-http://kosenconf.doorkeeper.jp/events/7837
+[http://kosenconf.doorkeeper.jp/events/7837](http://kosenconf.doorkeeper.jp/events/7837)
 
 
 ## 会場について
